@@ -37,7 +37,8 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    cursor: pointer;
+    cursor: pointer; 
+    border-radius: 20px;
 }
 
 span {
@@ -54,5 +55,5 @@ img {
 .buttons {
     padding: 20px;
     float: none;
-    margin-left:70px;
+    margin-left: 40px;
 }
